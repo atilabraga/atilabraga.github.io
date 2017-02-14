@@ -1,22 +1,22 @@
-title: Strata by HTML5 UP
+title: Átila Braga _ Developer
 description: >
-  **I am Strata**, a super simple
-  responsive site template freebie
-  crafted by [HTML5 UP](http://html5up.net).
+  **Átila Braga** Android developer
+  trying to make difference within
+  your community [GDG](http://emjuizdefora.com/gdgjf).
 copyright: Untitled
 sass:
   sass_dir: assets/sass
 url: http://localhost:4000
 disqus_shortname: stratajekylldemo
-facebook_username:
-twitter_username: "#"
-linkedin_username: "#"
-instagram_username:
-pinterest_username:
-flickr_username:
-github_username:  "#"
+facebook_username: atila.braga.5
+twitter_username: "@atilabraga"
+#linkedin_username: "#"
+#instagram_username:
+#pinterest_username:
+#flickr_username:
+github_username:  "atilabraga"
 feed_icon: rss
-email: "#"
+email: "braga.atila@gmail.com"
 gems: [jekyll-paginate]
 paginate_path: "/page/:num/"
 paginate: 5
